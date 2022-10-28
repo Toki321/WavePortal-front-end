@@ -1,3 +1,6 @@
+# Front-end for the wave portal dApp
+See contracts here <https://github.com/Toki321/WavePortal-contracts>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
